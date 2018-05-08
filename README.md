@@ -6,8 +6,11 @@ Number Plate Recognition using Tesseract OCR
 1.[Opencv](https://opencv.org/)<br />
 2.[Tesseract-OCR](https://github.com/tesseract-ocr/tesseract)<br />
 
-** TO Run**
+**TO Run**
+
 python ocr.py --image [path] --preprocess[type of preprocessing (optional)]<br />
+##Input Image
 ![Input](https://github.com/anmesh-vicky/Number-Plate-Recognition/blob/master/plate2.png)
+##Output Image
 ![output](https://github.com/anmesh-vicky/Number-Plate-Recognition/blob/master/runn.jpeg)
 
