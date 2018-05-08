@@ -14,6 +14,6 @@ Input Image
 Output 
 ![output](https://github.com/anmesh-vicky/Number-Plate-Recognition/blob/master/runn.jpeg)
 ### TODO
--[ ]Number Plate Extractor
--[x]Denoising The Plate
--[x]Recognition
+- [ ] Number Plate Extractor
+- [x] Denoising The Plate
+- [x] Recognition
