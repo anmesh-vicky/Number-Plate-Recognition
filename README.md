@@ -13,4 +13,7 @@ Input Image
 ![Input](https://github.com/anmesh-vicky/Number-Plate-Recognition/blob/master/plate2.png)
 Output 
 ![output](https://github.com/anmesh-vicky/Number-Plate-Recognition/blob/master/runn.jpeg)
-
+### TODO
+-[ ]Number Plate Extractor
+-[x]Denoising The Plate
+-[x]Recognition
